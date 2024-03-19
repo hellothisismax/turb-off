@@ -16,7 +16,7 @@ Things you *should* do but don't have to:
 
   For 2d profiles:
   * indicate the the inside face (side facing the center of the hub) of your profile
-  * indicate the blade pitch angle
+  * indicate the blade pitch angle (relative to perpandicular to hub spoke)
   * include dimensions such as chord length, width where nessecary
 
 ### Accepted File Formats:
