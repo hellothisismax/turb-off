@@ -14,12 +14,12 @@ Turbine must:
 
 Things you *should* do but don't have to:
 
-For 2d profiles:
-* indicate the the inside face (side facing the center of the hub) of your profile
-* indicate the blade pitch angle
-* include dimensions such as chord length, width where nessecary
+  For 2d profiles:
+  * indicate the the inside face (side facing the center of the hub) of your profile
+  * indicate the blade pitch angle
+  * include dimensions such as chord length, width where nessecary
 
-Accepted File Formats:
+### Accepted File Formats:
 3d: .STL or .STEP
 2d Profile: .jpg/.jpeg
 
