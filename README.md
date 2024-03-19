@@ -21,6 +21,7 @@ Things you *should* do but don't have to:
 
 ### Accepted File Formats:
 3d: .STL or .STEP
+
 2d Profile: .jpg/.jpeg
 
 Submission email (subject "turboff"):
