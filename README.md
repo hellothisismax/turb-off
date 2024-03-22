@@ -30,7 +30,7 @@ turbinechallenge@gmail.com
 A bad video explaining how to make/submit a turbine entry:
 https://youtu.be/kFAnhueLsvs
 
-Technical drawings and 3d models for turbine entries:
+Technical drawings and 3d models for designing turbine entries:
 https://www.thingiverse.com/thing:6349382
   
 ## Season 1
